@@ -25,6 +25,7 @@ via Visual Diffusion Descriptors</h1>
 ## Click to Grasp
 The code will be available in late summer, 2024.
 
+https://github.com/tsagkas/click2grasp/assets/53827820/46f345db-f211-427b-883f-9b8d28f3578a
 
 ## Citation
 If you found this repo useful for your research, please consider citing the paper. Also, consider citing the following works that made **Click to Grasp** possible: [D3-Fields](https://robopil.github.io/d3fields/), [F3RM](https://f3rm.github.io/), [Tale-of-Two-Features](https://sd-complements-dino.github.io/), [Diffusion-Hyperfeatures](https://diffusion-hyperfeatures.github.io/).
